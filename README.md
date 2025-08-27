@@ -1,65 +1,6 @@
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
-## Table of Contents
-- [Screenshots](#screenshots)
-- [Main Features](#main-features)
-- [FAQ](#faq)
-- [Reviews](#reviews)
-- [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
-- [Supported YouTube Version](#supported-youtube-version)
-- [Tweak Integration Details](#tweak-integration-details)
-
-## Screenshots
-<table>
-   <tr>
-      <td><img src="Resources/scr1.jpg" alt="Screenshot 1" /></td>
-      <td><img src="Resources/scr2.jpg" alt="Screenshot 2" /></td>
-      <td><img src="Resources/scr3.jpg" alt="Screenshot 3" /></td>
-   </tr>
-</table>
-
-<details>
-  <summary>More screenshots</summary>
-  <table>
-    <tr>
-      <td><img src="Resources/scr4.jpg" alt="Screenshot 4" /></td>
-      <td><img src="Resources/scr5.jpg" alt="Screenshot 5" /></td>
-      <td><img src="Resources/scr6.jpg" alt="Screenshot 6" /></td>
-    </tr>
-    <tr>
-      <td><img src="Resources/scr7.jpg" alt="Screenshot 7" /></td>
-      <td><img src="Resources/scr8.jpg" alt="Screenshot 8" /></td>
-      <td><img src="Resources/scr9.jpg" alt="Screenshot 9" /></td>
-    </tr>
-  </table>
-</details>
-
-## Main Features
-<li>Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures</li>
-<li>Copy video, comment, and post information</li>
-<li>Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode</li>
-<li>Player settings: Gestures, default quality, preferred audio track</li>
-<li>Save, Load and Restore settings. Clear cache once or automatically on app startup</li>
-<li>Built-in SponsorBlock</li>
-<li>And much, much more</li>
-<br>
-
-
-**YouTube Plus preferences can be found in the YouTube Settings**
-
-**All contributors are listed in the Contributors section**
-**Used open-source libraries are listed in the Open Source Libraries section**
-
-## FAQ
-- [🇺🇸 English FAQ](FAQs/FAQ_EN.md)
-- [🇷🇺 ЧаВо на Русском](FAQs/FAQ_RU.md)
-- [🇮🇹 FAQ in Italiano](FAQs/FAQ_IT.md)
-- [🇵🇱 FAQ po polsku](FAQs/FAQ_PL.md)
-
-## Reviews
-Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbreak.com/blog/youtube-plus/
-
 ## How to build a YouTube Plus app using Github actions
 > [!NOTE]
 > If this your first time, complete following steps before starting:
